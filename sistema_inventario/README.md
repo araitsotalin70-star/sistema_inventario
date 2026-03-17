@@ -93,3 +93,16 @@ A continuación se muestran capturas del sistema en ejecución:
 * Registro de pedidos
 
 
+## Evidencias del funcionamiento
+
+### Menú del sistema
+![Menu](menu.png)
+
+### Registro de producto
+![Registro producto](registrar_producto.png)
+
+### Lista de productos
+![Lista productos](lista_productos.png)
+
+### Registro de pedido
+![Registro pedido](registrar_pedido.png)
